@@ -160,7 +160,7 @@ const ItemLists = () => {
                     </td>
                     <td>
                       <p className="text-blue-900 font-semibold">
-                        {product.timeLeft} left
+                        {product.timeLeft}
                       </p>
                     </td>
                     <td className="text-blue-900 text-center">
